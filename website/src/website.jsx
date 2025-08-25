@@ -254,7 +254,7 @@ const NaisonMagicalWebsite = () => {
                 </a>
               ))}
               <button className="relative bg-gradient-to-r from-purple-600 via-pink-600 to-purple-600 bg-size-200 bg-pos-0 hover:bg-pos-100 text-white px-8 py-3 rounded-full font-semibold transition-all duration-500 transform hover:scale-105 hover:shadow-2xl hover:shadow-purple-500/50"
-                onClick={window.open('#contact', '_blank')}
+  
               >
                 <span className="relative z-10">Start Magic</span>
                 <div className="absolute inset-0 rounded-full bg-gradient-to-r from-purple-600 to-pink-600 opacity-0 animate-pulse"></div>
